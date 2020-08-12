@@ -1,0 +1,197 @@
+#top{
+  padding: 10px;
+  background-color: #dddddd;
+}
+
+/* navbar */
+
+.heading{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 45px;
+  color: #0f4c75;
+  padding-bottom: 0;
+}
+
+.btm_heading{
+  text-align: center;
+  font-size: 12px;
+  color: #0f4c75;
+}
+
+#navtxt{
+  color: #005086;
+  font-size: 20px;
+  margin:30px;
+  padding-top: -10px;
+}
+
+#navtxt:hover{
+  color: #00bcd4;
+  font-size: 22px;
+}
+
+#number{
+  color: #000;
+}
+
+/* about */
+#about{
+  padding-left: 125px;
+  padding-right: 155px;
+  padding-top: 20px;
+  padding-bottom: 45px;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+
+#about p{
+  padding-top:  20px;
+  padding-bottom: 20px;
+  padding-right: 200px;
+}
+
+#butn{
+  background-color: #005086;
+  color: #fff;
+  padding: 8px 15px;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+#butn:hover{
+  background-color: #00bcd4;
+  padding: 9px 16px;
+  font-size: 1.6rem;
+}
+
+/* video */
+.video{
+  border: 0;
+}
+
+/* features */
+
+#features{
+  text-align: center;
+  padding: 90px;
+}
+
+.f_icon {
+  color: #005086;
+  margin: 30px auto 30px auto;
+  font-size: 50px;
+}
+
+.f_icon:hover {
+  color: #00bcd4;
+}
+
+.f-col {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Advantages */
+#Advantages{
+  background-color: #dddddd;
+  padding-left: 125px;
+  padding-right: 155px;
+  padding-top: 30px;
+  padding-bottom: 45px;
+}
+
+#Advantages img{
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  float: left;
+  margin: 22px;
+}
+
+#Advantages h2{
+  margin-top: 25px;
+  margin-bottom: 35px;
+}
+
+#Advantages p{
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+/* extra */
+.extra{
+  background-color: #0f4c75;
+  width: 250px;
+    margin-left: auto;
+    margin-top: 80px;
+    height: 425px;
+    color: #fff;
+    padding: 180px 50px;
+    text-align: center;
+}
+
+/* Cases */
+
+#Cases{
+  background-color: #f5efef;
+}
+
+#Cases h2{
+  text-align: center;
+}
+
+.space{
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  text-align: center;
+}
+
+.slide_int{
+  height: 300px;
+}
+
+#Cases p{
+  margin: 20px;
+}
+
+
+#Cases img{
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  border-radius: 60%;
+}
+
+/* mail */
+#Mail{
+  margin-top: -20px;
+  background-color:  #dddddd;
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#Mail p{
+  margin-bottom: 20px;
+}
+
+.mail_content{
+  margin: 20px 350px;
+}
+
+/* footer */
+#footer{
+  background-color: #f5efef;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.foot{
+  margin: 10px;
+}
